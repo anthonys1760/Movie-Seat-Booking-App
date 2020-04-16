@@ -1,6 +1,6 @@
 # Movie Seat Booking
  Display movie choices and seats in a theater to select from in order to purchase tickets
- ![title-pic](newimage.jpg)
+ ![title-pic](capture.jpg)
  ## Project Specifications
 
 - Display UI with movie select, screen, seats, legend & seat info
