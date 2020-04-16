@@ -17,7 +17,7 @@
 ## Steps to execute:
 - Download the entire code 
 - Open up the index.html.
-- [View Live Site]()
+- [View Live Site](https://anthonys1760.github.io/Movie-Seat-Booking-App/)
 
 ## Technologies used: 
 - HTML
